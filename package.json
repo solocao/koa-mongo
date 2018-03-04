@@ -1,0 +1,12 @@
+{
+  "name": "koa-mongo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/solocao/koa-mongo.git",
+  "author": "solocao <solocao@126.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.0",
+    "koa-router": "^7.4.0"
+  }
+}
